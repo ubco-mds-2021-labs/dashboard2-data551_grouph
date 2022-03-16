@@ -1,0 +1,9 @@
+{
+  "name": "us-school-finder-r",
+  "description": "This app heps to finds schools in US",
+  "keywords": [
+    "heroku",
+    "R deployment",
+    "Dash R"
+],
+}
