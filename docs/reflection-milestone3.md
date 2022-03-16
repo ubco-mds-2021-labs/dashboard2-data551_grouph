@@ -18,12 +18,12 @@ Below is the functionality of each components:
 
 - Bar Charts - It compares the school fees with the national and the state average and also the salaries post graduation with the national and state average
 
-Based on the above plan we started working on individual components on the VS code via python and the associated libraries. Based on the sketch which we proposed, we made some plan to include the functionalities and the components in this milestone and then we have also made the plan to improve on our app in milestone4. After completing our individual components and its associated functionalities, we then merged all the components over a zoom call, it was the complete smooth pricess and the next target was to deploy it over the heroku server. We were able to deploy it on heroku both the common repo and our inidividual repositories.
+Based on the above plan we started working on individual components on the VS code via R and the associated libraries. Based on the sketch which we proposed, we made some plan to include the functionalities and the components in this milestone and then we have also made the plan to improve on our app in milestone4. After completing our individual components and its associated functionalities, we then merged all the components over a zoom call, it was the complete smooth pricess and the next target was to deploy it over the heroku server. We were able to deploy it on heroku both the common repo and our inidividual repositories.
 
 ## Milestone 4 Scope and Plan
 
-We will be going ahead with Python for our final milestoneand will be incorporating the changes based on the scope and plan which is on the below link:
+We will be going ahead with to build our App Python for our final milestone and will be incorporating the changes based on the scope and plan which is on the below link:
 
-https://github.com/ubco-mds-2021-labs/dashboard1-data551_group-h/blob/main/docs/reflection-milestone2.md
+[Milestone 2 Reflection](https://github.com/ubco-mds-2021-labs/dashboard1-data551_group-h/blob/main/docs/reflection-milestone2.md)
 
 Note: - Will add more things in case in case of more brainstorming and feedback from TA in Milestone2
