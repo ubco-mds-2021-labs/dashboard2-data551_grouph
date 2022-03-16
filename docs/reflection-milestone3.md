@@ -26,4 +26,4 @@ We will be going ahead with to build our App Python for our final milestone and 
 
 [Milestone 2 Reflection](https://github.com/ubco-mds-2021-labs/dashboard1-data551_group-h/blob/main/docs/reflection-milestone2.md)
 
-Note: - Will add more things in case in case of more brainstorming and feedback from TA in Milestone2
+Note: - Will add more things in case in case of more brainstorming and feedback from TA in Milestone2 and Milestone3
