@@ -44,7 +44,7 @@ Once you open the heroku dahsboard app from one of the four links stated above, 
 
 Below is the snapshot of the dashboard that will look:
 
-![image](https://user-images.githubusercontent.com/87165579/157771851-d13c820f-7d25-4593-9fd0-ffa4be8ea2f2.png)
+![image](dashboard2.PNG)
 
 ## Developer Notes
 
