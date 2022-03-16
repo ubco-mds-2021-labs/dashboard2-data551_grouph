@@ -20,6 +20,8 @@ Below is the functionality of each components:
 
 Based on the above plan we started working on individual components on the VS code via R and the associated libraries. Based on the sketch which we proposed, we made some plan to include the functionalities and the components in this milestone and then we have also made the plan to improve on our app in milestone4. After completing our individual components and its associated functionalities, we then merged all the components over a zoom call, it was the complete smooth process and the next target was to deploy it over the heroku server. We were able to deploy it on heroku the common repo.
 
+To address TA's feedback from Milestone 1: Our dataset contains ranking information for only 1/3 of the schools in the dataset. Thus, Visualizing ranking would create a large number of blank plots and NA values. To avoid the confusion, we decided to not include ranking information for our dashboard.
+
 ## Milestone 4 Scope and Plan
 
 We will be going ahead with to build our App Python for our final milestone and will be incorporating the changes based on the scope and plan which is on the below link:
