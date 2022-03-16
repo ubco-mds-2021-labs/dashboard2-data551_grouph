@@ -4,7 +4,7 @@
 
 | Link      | Repository |
 | ----------- | ----------- |
-| [Link to the Group Deployment](https://us-school-finder-r.herokuapp.com/)     | [Repo](https://github.com/ubco-mds-2021-labs/dashboard2-data551_group-h)       |
+| [Link to the Group Deployment](https://us-school-finder-r.herokuapp.com/)     | [Repo](https://github.com/ubco-mds-2021-labs/dashboard2-data551_grouph)       |
 
 ## Goals
 
