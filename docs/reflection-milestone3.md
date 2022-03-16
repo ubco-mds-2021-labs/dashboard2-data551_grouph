@@ -18,7 +18,7 @@ Below is the functionality of each components:
 
 - Bar Charts - It compares the school fees with the national and the state average and also the salaries post graduation with the national and state average
 
-Based on the above plan we started working on individual components on the VS code via R and the associated libraries. Based on the sketch which we proposed, we made some plan to include the functionalities and the components in this milestone and then we have also made the plan to improve on our app in milestone4. After completing our individual components and its associated functionalities, we then merged all the components over a zoom call, it was the complete smooth pricess and the next target was to deploy it over the heroku server. We were able to deploy it on heroku both the common repo and our inidividual repositories.
+Based on the above plan we started working on individual components on the VS code via R and the associated libraries. Based on the sketch which we proposed, we made some plan to include the functionalities and the components in this milestone and then we have also made the plan to improve on our app in milestone4. After completing our individual components and its associated functionalities, we then merged all the components over a zoom call, it was the complete smooth process and the next target was to deploy it over the heroku server. We were able to deploy it on heroku the common repo.
 
 ## Milestone 4 Scope and Plan
 
