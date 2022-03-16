@@ -52,6 +52,6 @@ If you are interested in contributing to our application, please let us know thr
 
 - Clone the project from Github.
 - Install dependencies on your local computer for this project.
-- Open a terminal in the project, navigate to the src folder, run the R debugger extension, then navigate to localhost:8050 in your web browser to see the running application.
+- Open a terminal in the project, navigate to the src folder, run the R debugger extension, then navigate to http://127.0.0.1:8050/ in your web browser to see the running application.
 
 
