@@ -1,18 +1,9 @@
 library(dash)
-library(dashCoreComponents)
-library(dashHtmlComponents)
-library(dashBootstrapComponents)
 library(ggplot2)
 library(plotly)
 library(tidyverse)
-
-library(readxl)
-library(repurrrsive)
-library(testthat)
 library(usmap)
-library(ggplot2)
 library(dplyr)
-library(stringr)
 library(jsonlite)
 
 ## load data
