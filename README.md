@@ -4,10 +4,7 @@
 
 | Link      | Repository |
 | ----------- | ----------- |
-| [Link to the Group Deployment](https://us-school-finder.herokuapp.com/)     | [Repo](https://github.com/ubco-mds-2021-labs/dashboard1-data551_group-h)       |
-| [Link to Navdeep's Deployment](https://us-school-finder-navdeep.herokuapp.com/)   | [Repo](https://github.com/navdeep94/dashboard1-data551_group-h/tree/main)        |
-| [Link to Bowen's Deployment](https://us-school-finder-bowen.herokuapp.com/)   | [Repo](https://github.com/boweny0319/dashboard1-data551_group-h/tree/main)        |
-| [Link to Can's Deployment](https://us-school-finder-can.herokuapp.com/)   | [Repo](https://github.com/CenatexCJ/dashboard1-data551_group-h/tree/main)       |
+| [Link to the Group Deployment](https://us-school-finder-4.herokuapp.com/)     | [Repo](https://github.com/ubco-mds-2021-labs/dashboard2-data551_group-h)       |
 
 ## Goals
 
@@ -55,6 +52,6 @@ If you are interested in contributing to our application, please let us know thr
 
 - Clone the project from Github.
 - Install dependencies on your local computer for this project.
-- Open a terminal in the project, run python app.py in the src folder, then navigate to localhost:8050 in your web browser to see the running application.
+- Open a terminal in the project, run python app.R in the src folder, then navigate to localhost:8050 in your web browser to see the running application.
 
 
