@@ -11,6 +11,7 @@ options(repos=r)
 # packages go here
 install.packages('remotes')
 install.packages('dash')
+install.packages('dashHtmlComponents')
 install.packages('ggplot2')
 install.packages('plotly')
 install.packages('tidyverse')
