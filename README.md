@@ -1,6 +1,6 @@
 # US School Finder (Group H)
 
-## Dashboard Deployment Links and Repositories
+## Dashboard Deployment Link and Repository
 
 | Link      | Repository |
 | ----------- | ----------- |
@@ -33,7 +33,7 @@ The app contains a U.S. map that shows all the states. The map is interactive an
 
 ## Dashboard Usage Example
 
-Once you open the heroku dahsboard app from one of the four links stated above, you can use the below test case in the filters dropdown to test the functionality of the app:
+Once you open the heroku dahsboard app from one of the link stated above, you can use the below test case in the filters dropdown to test the functionality of the app:
 
 - School Type: Public
 - Degree Length: 4 Year
